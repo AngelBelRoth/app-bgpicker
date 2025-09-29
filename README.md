@@ -6,7 +6,7 @@ Use this tool to choose your desired background style and immediately see it app
 
 ---
 
-## [Demo / Live Version](https://angelbelroth.github.io/app-bgpicker/)
+## [Demo / Live Version](https://angelbelroth.github.io/app-KJS-KJJ/))
 <img width="455" height="784" alt="Screenshot 2025-09-29 at 14 08 23" src="https://github.com/user-attachments/assets/4a6270ba-8353-4ca4-b84c-37b1b81c26b0" />
 
 ---
